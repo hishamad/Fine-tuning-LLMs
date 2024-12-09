@@ -4,4 +4,4 @@
 
 ### Large model with r = 32 and initial hyperparamters: [Large lora model q](https://huggingface.co/SWAH-KTH/large_lora_model_q/tree/main)
 
-### Large model with r = 32 and optimizied hyperparamters: [Large lora model q](https://huggingface.co/SWAH-KTH/final_large_lora_model_q/tree/main)
+### Large model with r = 32 and optimizied hyperparamters: [Final Large lora model q](https://huggingface.co/SWAH-KTH/final_large_lora_model_q/tree/main)
