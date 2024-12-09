@@ -9,7 +9,7 @@ In this project, we decided to go with the model-centric approach. We have fine-
 ![image](train1.png)
 ![image](train2.png)
 
-The final loss values looked similar for both models so we decided to instead test the models with sample prompts. During testing, even though the first model was trained for a much longer time than the second model(~2000 iterations vs ~100 iterations), the second one showed better performance than the first model on the sample prompts. 
+The final loss values looked similar for both models so we decided to instead test the models with sample prompts. During testing, even though the first model was trained for a much longer time than the second model(~2000 iterations vs ~100 iterations), the second one showed better performance than the first model on the sample prompts which you can check in the Testing_notebook.ipynb. 
 
 The UI we created to interact with the model is a scenario chatbot where you can decide between 4 different roles from our model. It can be a Job interviewer, a salesperson, a language tutor, or a debate opponent. Depending on the choice you will get targeted questions or answers which will help the user to train on answering and questioning on that specific scenario. Example of conversation with a salesperson:
 ![image](test1.png)
