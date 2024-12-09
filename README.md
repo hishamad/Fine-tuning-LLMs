@@ -1,6 +1,6 @@
 # Fine-tuning-LLMs
 
-The goal of lab 2 was to fine-tune a pre-existing large language model, upload it to Huggingface, and allow users to interact with the model through a UI.
+The goal of lab 2 was to fine-tune a pre-existing large language model, upload it to Huggingface, and allow users to interact with the model through a UI. This space can be found on Huggingface [Link to UI](https://huggingface.co/spaces/SWAH-KTH/lab2)
 
 You can take a model-centric approach or data-centric approach to improve the model performance. For the model-centric way optimizing hyperparameters such as learning rate, batch size, and/or number of epochs can boost performance. You can also try to switch the model architecture from smaller to more efficient models. Another strategy might be using different optimizers during training or regularization such as dropout to prevent overfitting. If you instead want to go with the data-centric approach you can employ strategies like augmenting, adding domain-specific data, removing low-quality data, and or diversifying the data to for example include multiple languages.
 
