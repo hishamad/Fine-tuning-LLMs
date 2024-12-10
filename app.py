@@ -3,7 +3,7 @@ from huggingface_hub import hf_hub_download
 from llama_cpp import Llama
 
 # Model Configuration
-model_name = "SWAH-KTH/large_lora_model_q"
+model_name = "SWAH-KTH/final_large_lora_model_q"
 model_file = "unsloth.Q4_K_M.gguf"
 model_path = hf_hub_download(model_name, filename=model_file)
 
